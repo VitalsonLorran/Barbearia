@@ -79,5 +79,11 @@ nav a:hover { /* no item nav/links quando botar o mouse por cima ele vai: mudar 
 
 footer {
 	text-align: center;
-	background: url("bg.jpg");
+	background: #0e0404;
+	padding: 40px 0;
+}
+.copyright {
+	color: #FFFFFF;
+	font-size: 13px;
+	margin: 20px 0;
 }
